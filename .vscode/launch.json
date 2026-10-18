@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MarketplaceApplication<marketplace>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bajrix.marketplace.MarketplaceApplication",
+            "projectName": "marketplace",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
